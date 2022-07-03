@@ -6,7 +6,7 @@
   <link href="http://aureliano2022.github.io/atom.xml" rel="self"/>
   
   <link href="http://aureliano2022.github.io/"/>
-  <updated>2022-07-02T08:09:32.512Z</updated>
+  <updated>2022-06-26T04:05:14.051Z</updated>
   <id>http://aureliano2022.github.io/</id>
   
   <author>
@@ -15,95 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://aureliano2022.github.io/2022/07/02/aboutne/index/"/>
-    <id>http://aureliano2022.github.io/2022/07/02/aboutne/index/</id>
-    <published>2022-07-02T08:09:32.512Z</published>
-    <updated>2022-07-02T08:09:32.512Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://aureliano2022.github.io/2022/07/02/404/"/>
-    <id>http://aureliano2022.github.io/2022/07/02/404/</id>
-    <published>2022-07-02T08:04:57.281Z</published>
-    <updated>2022-07-02T08:04:57.281Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://aureliano2022.github.io/2022/07/02/friends/index/"/>
-    <id>http://aureliano2022.github.io/2022/07/02/friends/index/</id>
-    <published>2022-07-02T07:58:47.742Z</published>
-    <updated>2022-07-02T07:59:06.145Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;title: friends&lt;br&gt;date: 2018-12-12 21:25:30&lt;br&gt;type: “friends”&lt;br&gt;layout:</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://aureliano2022.github.io/2022/07/02/tags/index/"/>
-    <id>http://aureliano2022.github.io/2022/07/02/tags/index/</id>
-    <published>2022-07-02T07:56:02.085Z</published>
-    <updated>2022-07-02T07:56:27.390Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;title: tags&lt;br&gt;date: 2018-09-30 18:23:38&lt;br&gt;type: “tags”&lt;br&gt;layout:</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://aureliano2022.github.io/2022/07/02/catagories/index/"/>
-    <id>http://aureliano2022.github.io/2022/07/02/catagories/index/</id>
-    <published>2022-07-02T07:54:41.094Z</published>
-    <updated>2022-07-02T07:55:18.791Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;title: categories&lt;br&gt;date: 2018-09-30 17:25:30&lt;br&gt;type: “categories”&lt;br&gt;layout:</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -120,19 +31,6 @@
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>about</title>
-    <link href="http://aureliano2022.github.io/2018/09/30/about/index/"/>
-    <id>http://aureliano2022.github.io/2018/09/30/about/index/</id>
-    <published>2018-09-30T09:25:30.000Z</published>
-    <updated>2022-07-02T08:06:39.381Z</updated>
-    
     
     
     
