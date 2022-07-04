@@ -1,1 +1,8 @@
 /* Here is your custom css styles. */
+/* 修改博客标题的字体大小 */
+@media only screen and (max-width: 601px) {
+    header .brand-logo .logo-span {
+        font-size: 2rem;
+    }
+}
+
