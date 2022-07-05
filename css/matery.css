@@ -1,8 +1,8 @@
 /*全局基础样式*/
 /*小屏幕下(手机类)的样式*/
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 601px) {
     .container {
-        width: 80%;
+        width: 20%;
     }
 }
 
