@@ -3,11 +3,11 @@
   <title>StrugglingFive</title>
   
   <subtitle>碰亮星星的Aureliano</subtitle>
-  <link href="http://aureliano2022.github.io/atom.xml" rel="self"/>
+  <link href="https://aureliano2022.gitee.io/atom.xml" rel="self"/>
   
-  <link href="http://aureliano2022.github.io/"/>
+  <link href="https://aureliano2022.gitee.io/"/>
   <updated>2022-06-26T04:05:14.051Z</updated>
-  <id>http://aureliano2022.github.io/</id>
+  <id>https://aureliano2022.gitee.io/</id>
   
   <author>
     <name>碰亮星星的Aureliano</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://aureliano2022.github.io/2022/06/26/hello-world/"/>
-    <id>http://aureliano2022.github.io/2022/06/26/hello-world/</id>
+    <link href="https://aureliano2022.gitee.io/2022/06/26/hello-world/"/>
+    <id>https://aureliano2022.gitee.io/2022/06/26/hello-world/</id>
     <published>2022-06-26T04:05:14.051Z</published>
     <updated>2022-06-26T04:05:14.051Z</updated>
     
