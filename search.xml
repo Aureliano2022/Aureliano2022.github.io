@@ -4,13 +4,75 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/06/26/hello-world/"/>
-      <url>/2022/06/26/hello-world/</url>
+      <title>与时间对坐</title>
+      <link href="/2022/07/21/%E4%B8%8E%E6%97%B6%E9%97%B4%E5%AF%B9%E5%9D%90/"/>
+      <url>/2022/07/21/%E4%B8%8E%E6%97%B6%E9%97%B4%E5%AF%B9%E5%9D%90/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="与时间对坐"><a href="#与时间对坐" class="headerlink" title="与时间对坐"></a>与时间对坐</h1><p>我与时间对坐，</p><p>等 光影栖息在眉眼间，</p><p>等 碰亮的星星坠进眸子里</p>]]></content>
       
       
+      <categories>
+          
+          <category> informal essay </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 捕捉到的思缕火花 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>信条</title>
+      <link href="/2022/07/05/%E4%BF%A1%E6%9D%A1/"/>
+      <url>/2022/07/05/%E4%BF%A1%E6%9D%A1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="信条"><a href="#信条" class="headerlink" title="信条"></a>信条</h1><blockquote><p>清醒，</p><p>但是美好富想象力</p><p>而且含幽默</p></blockquote><p>​                                                                                ——《阿城作品典藏》</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> literature </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文字跨越编年的碰撞 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个站说明</title>
+      <link href="/2022/07/01/%E4%B8%AA%E7%AB%99%E8%AF%B4%E6%98%8E/"/>
+      <url>/2022/07/01/%E4%B8%AA%E7%AB%99%E8%AF%B4%E6%98%8E/</url>
+      
+        <content type="html"><![CDATA[<h1 id="个站信息说明"><a href="#个站信息说明" class="headerlink" title="个站信息说明"></a>个站信息说明</h1><h2 id="image来源"><a href="#image来源" class="headerlink" title="image来源"></a>image来源</h2><ul><li>banner—周深工作室</li><li>logo—喝柚几茶吗</li><li>favicon,valine background图源网络</li></ul><h2 id="一些碎碎念"><a href="#一些碎碎念" class="headerlink" title="一些碎碎念"></a>一些碎碎念</h2><p>​        这是一个平平无奇，偶尔会写写文，偶尔会健健身，偶尔会读书、听歌、打游戏的英专生啦 [doge] 建站之初，没有什么太多的想法，也不营利（当然如果有人想好心打赏我，也不是不可以(︶.̮︶✽)）目前不打算在这个网站上发牢骚（bushi）写文，但是网站进一步的美化和排版调整有时间会继续。</p><blockquote><p>如果想读读小贺的文，不妨关注公众号：碰亮星星的Aureliano(欢迎批评指正⊙_&lt;)</p><p>如果想看看小贺参与制作的视频，B站啾星家的FIVE米（不要忘记一键三连(✪ω✪)）</p><p>如果啥也不想看，就来小贺个站留个爪爪吧</p></blockquote><p>欢迎交流不欢迎杠，欢迎批评建议不欢迎争吵</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> information </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 写在前面 </tag>
+            
+        </tags>
       
     </entry>
     
