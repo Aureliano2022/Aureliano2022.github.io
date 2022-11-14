@@ -386,6 +386,19 @@
   
      
     
+<script src="/libs/cryptojs/crypto-js.min.js"></script>
+<script>
+    (function() {
+        let pwd = '';
+        if (pwd && pwd.length > 0) {
+            if (pwd !== CryptoJS.SHA256(prompt('请输入密码')).toString(CryptoJS.enc.Hex)) {
+                alert('密码错误，将返回主页！');
+                location.href = '/';
+            }
+        }
+    })();
+</script>
+
 
 
 
@@ -542,14 +555,14 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2022-08-30
+                    2022-11-14
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    239
+                    249
                 </div>
                 
 
@@ -576,10 +589,10 @@
 <li>logo—喝柚几茶吗</li>
 <li>favicon,valine background图源网络</li>
 </ul>
-<h2 id="一些碎碎念"><a href="#一些碎碎念" class="headerlink" title="一些碎碎念"></a>一些碎碎念</h2><p>​        这是一个平平无奇，偶尔会写写文，偶尔会健健身，偶尔会读书、听歌、打游戏的英专生啦 [doge] 建站之初，没有什么太多的想法，也不营利（当然如果有人想好心打赏我，也不是不可以(︶.̮︶✽)）目前不打算在这个网站上发牢骚（bushi）写文，但是网站进一步的美化和排版调整有时间会继续。</p>
+<h2 id="一些碎碎念"><a href="#一些碎碎念" class="headerlink" title="一些碎碎念"></a>一些碎碎念</h2><p>​        这是一个平平无奇，偶尔会写写文，偶尔会健健身，偶尔会读书、听歌、打游戏的英专生啦 [doge] 建站之初，没有什么太多的想法，也不营利（当然如果有人想好心打赏我，也不是不可以(︶.̮︶✽)）目前不打算在这个网站上发牢骚（bushi）写文，暂时用作资料仓库，但是网站进一步的美化和排版调整有时间会继续。</p>
 <blockquote>
 <p>如果想读读小贺的文，不妨关注公众号：碰亮星星的Aureliano(欢迎批评指正⊙_&lt;)</p>
-<p>如果想看看小贺参与制作的视频，B站啾星家的FIVE米（不要忘记一键三连(✪ω✪)）</p>
+<p>如果想看看小贺参与制作的视频，B站啾星家的奋斗米（不要忘记一键三连(✪ω✪)）</p>
 <p>如果啥也不想看，就来小贺个站留个爪爪吧</p>
 </blockquote>
 <p>欢迎交流不欢迎杠，欢迎批评建议不欢迎争吵</p>
@@ -609,7 +622,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://aureliano2022.github.io/2022/07/01/%E4%B8%AA%E7%AB%99%E8%AF%B4%E6%98%8E/">https://aureliano2022.github.io/2022/07/01/%E4%B8%AA%E7%AB%99%E8%AF%B4%E6%98%8E/</a>
+                    <a href="https://aureliano2022.gitee.io/2022/07/01/%E4%B8%AA%E7%AB%99%E8%AF%B4%E6%98%8E/">https://aureliano2022.gitee.io/2022/07/01/%E4%B8%AA%E7%AB%99%E8%AF%B4%E6%98%8E/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -1225,21 +1238,21 @@
         
         <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge right-badge text-color">
-                本篇&nbsp;<i class="far fa-dot-circle"></i>
+                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2022/07/01/%E4%B8%AA%E7%AB%99%E8%AF%B4%E6%98%8E/">
+                <a href="/2022/07/01/%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/">
                     <div class="card-image">
                         
-                        <img src="/medias/featureimages/j.jpg" class="responsive-img" alt="个站说明">
+                        <img src="/medias/featureimages/j.jpg" class="responsive-img" alt="语法资料整理">
                         
-                        <span class="card-title">个站说明</span>
+                        <span class="card-title">语法资料整理</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            一些建站的悄悄话
+                            学习资料整理
                         
                     </div>
                     <div class="publish-info">
@@ -1250,20 +1263,19 @@
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/information/" class="post-category">
-                                    information
+                            <a href="/categories/study/" class="post-category">
+                                    study
                                 </a>
                             
                             
                         </span>
                     </div>
                 </div>
-
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/">
-                        <span class="chip bg-color">写在前面</span>
+                    <a href="/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E8%87%AA%E5%AD%98/">
+                        <span class="chip bg-color">学习资料自存</span>
                     </a>
                     
                 </div>
@@ -1552,7 +1564,7 @@
             <br>       
             
              &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span      
-            class="white-color">293</span>        
+            class="white-color">303</span>        
                      
             
                   
